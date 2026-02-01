@@ -20,7 +20,7 @@
 * 📔 [**Emotional Diary**](https://github.com/kvvxxn/Emotion_diary) – Multimodal emotion tracking from text and images.
 * 🧮 [**Math Problem Solver**](https://github.com/kvvxxn/Math_tutor) – Rule-based generation and symbolic solving with VLMs.
 * ⚽ **Football Team Manager** *(ongoing)* – Team and tactic management system.
-* 🚗 **Car Accident Analysis** *(ongoing)* – Multimodal AI for visual–temporal reasoning.
+* 🚗**Car Accident Analysis** *(ongoing)* – Multimodal AI for visual–temporal reasoning.
 
 <br>
 
