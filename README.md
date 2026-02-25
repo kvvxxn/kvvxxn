@@ -2,7 +2,10 @@
 
 ### **B.S. Student in Computer Software Engineering @ Hanyang University**
 
-- Interested in **multimodal AI systems** that integrate **computer vision, reasoning, and human-centric understanding**, with a focus on **object-centric perception, Neuro-symbolic intelligence, multi-agent interaction, and real-world decision-making.**
+- **Core Interests:** Multimodal AI & Computer Vision
+- **Research Focus:** Neuro-symbolic intelligence, Object-centric perception
+- **Goal:** Human-centric understanding & Real-world decision-making
+
 
 <br>
 
