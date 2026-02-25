@@ -72,12 +72,5 @@
 <br>
 
 # 🧑‍💻 Contact me
-<div style="text-align: left;">
-  <a href="https://velog.io/@kvvon/posts">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white">
-  </a>
-  <a href="mailto:kwondh3236@hanyang.ac.kr">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">
-  </a>
-</div>
 
+📫 **Email:** [kwondh3236@hanyang.ac.kr](mailto:kwondh3236@hanyang.ac.kr)
