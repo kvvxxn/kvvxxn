@@ -10,7 +10,7 @@
 
 | Category | Description |
 | :--- | :--- |
-| 🌱 **Learning** | **Multimodal AI pipelines** (Visual perception, Temporal dynamics, High-level reasoning) |
+| 🌱 **Learning** | **Multimodal AI** (Visual perception, Temporal dynamics, High-level reasoning) |
 | 💼 **Experience** | **Undergraduate AI Intern** @ HAiV Lab (POSTECH) <br> **AI Software Engineer Intern** @ 72 Company |
 
 <br>
@@ -76,7 +76,7 @@
   <a href="https://velog.io/@kvvon/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white">
   </a>
-  <a href="mailto:kwondh3236@hanyang.ac.kr">
+  <a href="kwondh3236@hanyang.ac.kr">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">
   </a>
 </div>
